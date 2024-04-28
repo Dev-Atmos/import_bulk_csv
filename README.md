@@ -13,7 +13,7 @@ This repository contains a PHP script and an HTML form for importing bulk data f
 1. Clone this repository to your local machine or download the files directly.
 2. Ensure that your web server, PHP, and MySQL are properly configured and running.
 3. Create a MySQL database and table to store the imported data. You can use the provided SQL script `database.sql` to create the necessary table structure.
-4. Configure the database connection parameters in the PHP script (`import_temp_bulk.php`).
+4. Configure the database connection parameters in the PHP script (`index.php`).
 5. Upload the HTML and PHP files to your web server.
 
 ## Usage
