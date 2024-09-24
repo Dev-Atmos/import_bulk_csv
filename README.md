@@ -43,7 +43,7 @@ This repository contains a PHP script and an HTML form for importing bulk data f
 - jQuery v3.7.1
 
 ## Author
-[Your Name or Organization]
+[Dipak Prajapati]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
